@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: juliangomez91012@gmail.com
 - 😄 Pronouns: He/Él
 - ⚡ Fun fact: I love play videogames 

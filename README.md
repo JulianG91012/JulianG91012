@@ -1,20 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Julian Gómez👋
+> "La Precisión es la Diferencia entre un carnicero y un cirujano", Camille 
 
-<!--
-**JulianG91012/JulianG91012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I´m studying at **UPB**, Medellin and also at [**Platzi.com**](https://platzi.com/ "Platzi.com").
+- 👨‍💻 Backend Developer in process 
+- 💻 I´m currently learning all about **Python**, **JavaScript** and some of **C** 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
-- 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on ...
--->
-
-
-
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: juliangomez91012@gmail.com
-- 😄 Pronouns: He/Él
-- ⚡ Fun fact: I love play videogames 
-
+---
+ I Like to:
+ - 📚 Learn 
+ - 🕹️ Play videogames 
+ - 🎶 Listen to music  

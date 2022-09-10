@@ -5,8 +5,9 @@
 - 👨‍💻 Backend Developer in process 
 - 💻 I´m currently learning all about **Python**, **JavaScript** and some of **C** 
 
----
+
  I Like to:
  - 📚 Learn 
  - 🕹️ Play videogames 
  - 🎶 Listen to music  
+ ---
